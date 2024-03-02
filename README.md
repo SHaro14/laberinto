@@ -1,3 +1,5 @@
+# laberinto
+
 Pasos para descargar el código desde GitHub:
 
 1.En el botón verde llamado Code, hay una opción al final de la lista que permite descargar el archivo en formato zip.
@@ -13,5 +15,3 @@ Algunos ejemplos de laberintos:
 [["S","0","1","1"],["1","0","0","0"],["1","1","1","1"],["1","0","1","E"],[“1”,”0”,”0”,”1”]]
 
 [["1","0","1","S"],["1","0","0","0"],["0","0","1","1"],["0","0","0","E"]] 
-
-# laberinto
