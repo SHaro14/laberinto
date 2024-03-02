@@ -1,5 +1,3 @@
-- En el archivo README.md, deben colocar las instrucciones para instalar, ejecutar y probar su solución:
-
 Pasos para descargar el código desde GitHub:
 
 1.En el botón verde llamado Code, hay una opción al final de la lista que permite descargar el archivo en formato zip.
